@@ -241,7 +241,7 @@ failed DNS lookup activity
 and NXDOMAIN response behavior
 generated during traffic simulation.
 
-![Failed DNS Lookup](../failed-dns.png)
+![Failed DNS Lookup](../failed-dns1.png)
 
 ---
 
