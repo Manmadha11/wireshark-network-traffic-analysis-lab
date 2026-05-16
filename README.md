@@ -236,38 +236,6 @@ tcp
 
 ---
 
-# Supporting Evidence
-
-## DNS Traffic Investigation
-
-![DNS Filter](../dns-filter.png)
-
-![DNS Queries](../dns-queries.png)
-
-![Failed DNS Lookup](../failed-dns.png)
-
----
-
-## HTTP Traffic Investigation
-
-![HTTP Filter](../http-filter.png)
-
-![HTTP Requests](../http-requests.png)
-
-![HTTP Download](../http-download.png)
-
----
-
-## TCP Stream Investigation
-
-![TCP Filter](../tcp-filter.png)
-
-![TCP Stream](../tcp-stream.png)
-
-![TCP Conversation](../tcp-conversation.png)
-
----
-
 # Security Relevance
 
 Packet analysis is a critical skill
